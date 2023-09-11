@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EdusvKids.WebUI/1.0.0": {
+        "runtime": {
+          "EdusvKids.WebUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EdusvKids.WebUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
