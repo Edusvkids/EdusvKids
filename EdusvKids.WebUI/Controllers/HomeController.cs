@@ -18,7 +18,21 @@ namespace EdusvKids.WebUI.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Productos()
+        {
+            return View();
+        }
+
+        public IActionResult Monedas()
+        {
+            return View();
+        }
+        public IActionResult Descargar()
+        {
+            return View();
+        }
+
+        public IActionResult Pagar()
         {
             return View();
         }
