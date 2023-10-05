@@ -37,6 +37,23 @@ namespace EdusvKids.WebUI.Controllers
             return View();
         }
 
+        public IActionResult Cuenta()
+        {
+            return View();
+        }
+
+        public IActionResult Crear()
+        {
+            return View();
+        }
+
+
+        public IActionResult Vida()
+        {
+            return View();
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

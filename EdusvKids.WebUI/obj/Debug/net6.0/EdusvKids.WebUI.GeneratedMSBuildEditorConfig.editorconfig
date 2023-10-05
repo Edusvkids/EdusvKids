@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jc997\Desktop\Juego\EdusvKids\EdusvKids.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jc997/Desktop/Juego/EdusvKids/EdusvKids.WebUI/Views/Home/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jc997/Desktop/Juego/EdusvKids/EdusvKids.WebUI/Views/Home/Cuenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdWVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jc997/Desktop/Juego/EdusvKids/EdusvKids.WebUI/Views/Home/Descargar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXNjYXJnYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/jc997/Desktop/Juego/EdusvKids/EdusvKids.WebUI/Views/Home/Productos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jc997/Desktop/Juego/EdusvKids/EdusvKids.WebUI/Views/Home/Vida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jc997/Desktop/Juego/EdusvKids/EdusvKids.WebUI/Views/Shared/Error.cshtml]
