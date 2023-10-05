@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\EdusvKids.WebUI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Cuenta.css",
+      "PackagePath": "staticwebassets\\css\\Cuenta.css"
+    },
+    {
       "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Descargar.css",
       "PackagePath": "staticwebassets\\css\\Descargar.css"
+    },
+    {
+      "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Pago.css",
+      "PackagePath": "staticwebassets\\css\\Pago.css"
+    },
+    {
+      "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Vida.css",
+      "PackagePath": "staticwebassets\\css\\Vida.css"
     },
     {
       "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\estilop.css",
@@ -23,6 +35,10 @@
     {
       "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\images\\Caja.jpg",
+      "PackagePath": "staticwebassets\\images\\Caja.jpg"
     },
     {
       "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\images\\Chest.png",
@@ -47,6 +63,10 @@
     {
       "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\js\\Descargar.js",
       "PackagePath": "staticwebassets\\js\\Descargar.js"
+    },
+    {
+      "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\js\\Pago.js",
+      "PackagePath": "staticwebassets\\js\\Pago.js"
     },
     {
       "Id": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\js\\Script.js",

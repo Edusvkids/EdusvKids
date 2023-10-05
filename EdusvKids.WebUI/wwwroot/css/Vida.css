@@ -1,20 +1,20 @@
 * {
     box-sizing: border-box;
+    top: 200px;
 }
 
 body {
     background-color: #ECEFF1;
+  
 }
 
-/* Main Style ----------*/
 
 .group:after {
-  content: "";
-  display: table; 
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
 
-/* Content Style ----------*/
 
 .ui.grid > .row > .column {
     padding-left: 0;
@@ -23,9 +23,11 @@ body {
 
 .ui.centered.grid {
     position: relative;
-    top: 50%;
+    top: 30%;
     margin-top: -200px;
 }
+
+
 
 .proCard_content {
     width: 872px;
@@ -34,6 +36,7 @@ body {
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
+    top: 200px;
 }
 
 
@@ -52,17 +55,16 @@ body {
     height: 85%;
 }
 
-/* Brand-Name & Price ----------*/
 
 .brand-name {
     display: block;
     margin-bottom: 10px;
 }
 
-.brand-name h3 {
-    float: left;
-    text-transform: uppercase;
-}
+    .brand-name h3 {
+        float: left;
+        text-transform: uppercase;
+    }
 
 .proCard_price {
     font-size: 35px;
@@ -71,27 +73,52 @@ body {
     font-weight: bold;
 }
 
-/* Description ----------*/
 
 .proCard_description {
     margin-bottom: 20px;
 }
 
-.proCard_description h4 {
-    margin-bottom: 8px;
+    .proCard_description h4 {
+        margin-bottom: 8px;
+    }
+
+    .proCard_description p {
+        text-indent: 40px;
+    }
+
+
+    .proCard_colors li span {
+        width: 25px;
+        height: 25px;
+        border-radius: 25%;
+        background: black;
+        display: block;
+        cursor: pointer;
+    }
+
+
+
+.proCard_buttons {
+    height: 15%;
+    display: flex;
+    justify-content: center;
 }
 
-.proCard_description p {
-    text-indent: 40px;
+.ui.button {
+    float: left;
+    padding: 19px 40px;
+    border-radius: 10px;
+    background: #E91E63 !important;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+    color: #FFF !important;
+    transition: .5s;
 }
 
-
-
-
-
-
-
-
+    .ui.button:hover {
+        background: rgba(233, 30, 99, 0.7) !important;
+        box-shadow: 0 2px 7px rgba(0, 0, 0, 0);
+        color: #FFF;
+    }
 
 
 .proCard_images-section {
@@ -101,9 +128,57 @@ body {
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
     position: relative;
+    top: 3%;
+}
+
+.proCard_slider img {
+    width: 100%;
+    height: 400px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    
 }
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ui.centered.grid {
+    position: relative;
+    top: 20%;
+    margin-top: -2px;
+}
 

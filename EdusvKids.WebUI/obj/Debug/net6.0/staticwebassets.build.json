@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TP6TnQ+TORldYplPQxJUHokqZaVUGIaTc5bku1Ic2kE=",
+  "Hash": "ooPQKnV88b/PRKd77SCwNDY1lTqU5CKJveZbHxZP5WQ=",
   "Source": "EdusvKids.WebUI",
   "BasePath": "_content/EdusvKids.WebUI",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EdusvKids.WebUI.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Cuenta.css",
+      "SourceId": "EdusvKids.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\",
+      "BasePath": "_content/EdusvKids.WebUI",
+      "RelativePath": "css/Cuenta.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Cuenta.css"
     },
     {
       "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Descargar.css",
@@ -102,6 +119,23 @@
       "OriginalItemSpec": "wwwroot\\css\\monedas.css"
     },
     {
+      "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Pago.css",
+      "SourceId": "EdusvKids.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\",
+      "BasePath": "_content/EdusvKids.WebUI",
+      "RelativePath": "css/Pago.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Pago.css"
+    },
+    {
       "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\style.css",
       "SourceId": "EdusvKids.WebUI",
       "SourceType": "Discovered",
@@ -119,6 +153,23 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
+      "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\css\\Vida.css",
+      "SourceId": "EdusvKids.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\",
+      "BasePath": "_content/EdusvKids.WebUI",
+      "RelativePath": "css/Vida.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Vida.css"
+    },
+    {
       "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\favicon.ico",
       "SourceId": "EdusvKids.WebUI",
       "SourceType": "Discovered",
@@ -134,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\images\\Caja.jpg",
+      "SourceId": "EdusvKids.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\",
+      "BasePath": "_content/EdusvKids.WebUI",
+      "RelativePath": "images/Caja.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Caja.jpg"
     },
     {
       "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\images\\Chest.png",
@@ -253,6 +321,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\monedas.js"
+    },
+    {
+      "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\js\\Pago.js",
+      "SourceId": "EdusvKids.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\",
+      "BasePath": "_content/EdusvKids.WebUI",
+      "RelativePath": "js/Pago.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Pago.js"
     },
     {
       "Identity": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.WebUI\\wwwroot\\js\\Script.js",
