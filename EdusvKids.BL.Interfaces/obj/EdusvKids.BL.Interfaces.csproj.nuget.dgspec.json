@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj": {}
+    "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj": {
+    "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj",
         "projectName": "EdusvKids.BL.Interfaces",
-        "projectPath": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj",
+        "projectPath": "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.BL.Interfaces\\EdusvKids.BL.Interfaces.csproj",
         "packagesPath": "C:\\Users\\jc997\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.BL.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.BL.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jc997\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

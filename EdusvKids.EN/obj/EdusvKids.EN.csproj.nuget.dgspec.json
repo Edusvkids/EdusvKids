@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj": {}
+    "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj": {
+    "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj",
+        "projectUniqueName": "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj",
         "projectName": "EdusvKids.EN",
-        "projectPath": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj",
+        "projectPath": "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.EN\\EdusvKids.EN.csproj",
         "packagesPath": "C:\\Users\\jc997\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jc997\\Desktop\\Juego\\EdusvKids\\EdusvKids.EN\\obj\\",
+        "outputPath": "C:\\Users\\jc997\\Source\\Repos\\EdusvKids\\EdusvKids.EN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jc997\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
